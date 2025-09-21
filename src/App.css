@@ -970,7 +970,6 @@ a { text-decoration: none; color: var(--color-dark-theme-text); }
     color: var(--color-dark-theme-muted);
 }
 
-/* Specific styles for the review example image */
 .review-example-card {
     background-color: #1c1c1c; /* Darker than default card for distinction */
     border: 1px solid #333;
